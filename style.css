@@ -190,3 +190,10 @@ button:hover{
     left: 70px;
   }
 }
+
+.card:has(input[type="radio"]:checked){
+  background-color: #ebf7f4;
+}
+
+
+
